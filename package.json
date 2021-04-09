@@ -1,15 +1,11 @@
 {
-  "name": "@rolwithers/any-db",
-  "version": "2.2.1",
+  "name": "any-db-fork-publish",
+  "version": "2.3.0",
   "description": "Database-agnostic connection pooling, querying, and result sets",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
     "lerna": "lerna"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/grncdr/node-any-db.git"
   },
   "author": "Stephen Sugden",
   "keywords": [
