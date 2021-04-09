@@ -1,6 +1,6 @@
 {
   "name": "any-db-mysql",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "The MySQL adapter for any-db",
   "main": "index.js",
   "scripts": {
