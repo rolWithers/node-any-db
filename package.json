@@ -1,5 +1,5 @@
 {
-  "name": "any-db",
+  "name": "@rolwithers/any-db",
   "version": "2.2.1",
   "description": "Database-agnostic connection pooling, querying, and result sets",
   "main": "index.js",
